@@ -96,6 +96,6 @@ sudo apt-get -y install libgl1-mesa-glx \
         libxml2-dev
 
 wget https://repo.anaconda.com/archive/Anaconda3-2021.05-Linux-x86_64.sh
-./Anaconda3-2021.05-Linux-x86_64.sh -b -p $HOME/anaconda
+bash ./Anaconda3-2021.05-Linux-x86_64.sh -b -p $HOME/anaconda
 #conda init
 #conda config --set auto_activate_base false
