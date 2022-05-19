@@ -19,7 +19,7 @@ This list does not contain specific genomics tools such as ``samtools``, rather 
                             tar \
                             nano \
                             pip \
-                            build-essentials \
+                            build-essential \
                             gcc-multilib \
                             libncurses-dev \
                             tmux \
