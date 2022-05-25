@@ -13,6 +13,7 @@ sudo apt-get -y install git \
                     nano \
                     vim \
                     python3-pip \
+                    python3.8-venv \
                     build-essential \
                     gcc-multilib \
                     libncurses-dev \
