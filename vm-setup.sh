@@ -48,11 +48,11 @@ export VERSION=3.8.4 && \
         tar -xzf singularity-${VERSION}.tar.gz && \
         cd singularity-${VERSION}
 
-        ./mconfig && \
-        make -C ./builddir && \
-        sudo make -C ./builddir install
+./mconfig && \
+make -C ./builddir && \
+sudo make -C ./builddir install
 
-        cd ..
+cd ..
 
 # docker
 
