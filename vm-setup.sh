@@ -8,6 +8,7 @@ sudo apt-get update && sudo apt-get -y upgrade
 ## basic tools
 sudo apt-get -y install git \
                     default-jre \
+                    tree \
                     unzip \
                     tar \
                     nano \
